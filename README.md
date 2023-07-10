@@ -6,6 +6,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-%234E56A6.svg?style=for-the-badge&logo=Livewire&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpine.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%238BC0D0.svg?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![PYTHON](https://img.shields.io/badge/python-%2338B2AC.svg?style=for-the-badge&logo=python&logoColor=white)
